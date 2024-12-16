@@ -53,6 +53,12 @@ I once managed to combine my passion for technology and design to create a **mul
 ### 📐 Digital Circuit Design
 - Washing Machine Controller Implemented Using Fuzzy Logic.
 
+### 🚗 Line Follower with Obstacle Detection  
+- A robotic line-following system equipped with sensors for detecting and avoiding obstacles in real-time, ensuring smooth navigation and functionality.  
+
+### ♻️ Waste Garbage Collector (Contribution)  
+- Contributed to designing and developing an efficient waste management system with smart garbage collection capabilities.
+
 ---
 
 ## 🛠️ Skills
