@@ -5,18 +5,10 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and cre
 ---
 
 ## 👀 Interests
-- 🚀 Exploring **Artificial Intelligence and Mchine Learning** and **Web Developement** solutions.
-- 🛠️ Working on **Web Devlopement** **Digital Design** projects.
+- 🚀 Exploring **Artificial Intelligence , Mchine Learning** and **Web Developement** solutions.
+- 🛠️ Working on **Web Devlopement** projects.
 - 📊 Learning more about **Data Structures**, **Machine Learning**, and **Algorithms**.
 - 🎨 Designing innovative solutions for **college-level engineering projects**.
-
----
-
-## 🌱 Currently Learning
-- **Verilog HDL** for Digital System Design.
-- **Signals and Systems** for engineering applications.
-- **Data Structures and Algorithms** for competitive coding.
-- **Tinkercad and Arduino Programming** for prototyping.
 
 ---
 
