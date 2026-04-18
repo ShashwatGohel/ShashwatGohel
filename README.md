@@ -11,3 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ShashwatGohel&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShashwatGohel&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwatGohel&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShashwatGohel&label=Visitors&color=blueviolet&style=for-the-badge)
