@@ -1,6 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m Shashwat Gohel, a Computer Science undergraduate passionate about AI/ML, web development, and real-world problem solving.<br>I enjoy building practical projects ranging from machine learning models and AI-powered systems to full-stack web applications.<br>Currently exploring Artificial Intelligence, Machine Learning, Cybersecurity, and modern web technologies, with a strong focus on projects that are impactful, scalable, and resume-worthy.
+👋 Hi, I'm Shashwat Gohel, a Computer Science undergraduate passionate about software engineering, backend development, and AI-powered technologies.
 
+I enjoy designing and building scalable applications, from RESTful APIs and full-stack web platforms to intelligent systems that solve real-world problems. My interests span Data Structures & Algorithms, Object-Oriented Programming, Low-Level Design, Artificial Intelligence, Machine Learning, and Cybersecurity.
+
+Currently, I'm focused on strengthening my software engineering foundations through hands-on projects, system design, and problem-solving while exploring how AI can be used to create impactful and practical solutions.
+
+I believe in learning by building, and I'm always looking for opportunities to create meaningful technology that makes a difference.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shashwatgohel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashwatgohel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashwat.g@ahduni.edu.in) 
